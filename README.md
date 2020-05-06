@@ -1,7 +1,7 @@
 # My-website
 creating a Testing Repo
 
-will update a smaple
+removed
 
 ### I just created a branch dude
 
