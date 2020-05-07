@@ -10,3 +10,5 @@ removed
 ## Changes done on Github before rebase
 
 ## Testing release file
+
+Testing out the issue #4
